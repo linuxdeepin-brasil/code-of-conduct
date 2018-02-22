@@ -144,7 +144,7 @@ Use a URL abaixo para pinar o código no topo do seu canal.
 
 ## 10. Autores e mantenedores do projeto
 
-[Luan C. Redmann](luandacostaredmann@gmail.com)
-[P. Dayvson](mailto:pdayvson@hotmail.com)
+- [Luan C. Redmann](luandacostaredmann@gmail.com)
+- [P. Dayvson](mailto:pdayvson@hotmail.com)
 
 Feito com base no [Brazilian IT group - Code of conduct](https://github.com/brazil-it-groups/code-of-conduct)
