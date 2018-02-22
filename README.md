@@ -29,7 +29,7 @@ Esse guia traz sugestões e orientações de conduta para uma convivência saud�
 
 ## 4. Usuários de outro idoma
 
-- É tolerado apenas 1 (um) envio de mensagem em outro idioma que não o nativo da comunidade em questão, salvo o aviso [*(#WARNING)*](#41) para usuários de outros idiomas.
+- É tolerado apenas 1 (um) envio de mensagem em outro idioma que não o nativo da comunidade em questão, salvo o aviso [*(#WARNING)*](#41-aviso-para-usu%C3%A1rios-de-outros-idiomas) para usuários de outros idiomas.
 
 #### 4.1 Aviso para usuários de outros idiomas
 
@@ -44,7 +44,7 @@ will be banned from [@deepinbrasil](https://t.me/deepinbrasil)."
 		- Caso contrário, encaminhar a resposta a um administrador novamente e esperar. 
 		- Quando a equipe agir, informará que o usuário foi banido. Caso necessite se comunicar em outro idioma, use apenas o idioma Inglês!
 
-* Em casos como o descrito acima, prefira copiar o modelo [*(#WARNING)*](#41). Ele é sucinto e objetivo. 
+* Em casos como o descrito acima, prefira copiar o modelo [*(#WARNING)*](#41-aviso-para-usu%C3%A1rios-de-outros-idiomas). Ele é sucinto e objetivo. 
 * Mensagens redundantes serão consideradas spam e o usuário que as mandou será advertido. Em caso de resistência, ele será banido.
 
 ## 5. Orientações sobre perguntas e respostas
