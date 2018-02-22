@@ -39,7 +39,8 @@ grupo.
 2.3.1. Em caso de randomicidade, oriente-o a sair e encaminhe suas mensagens a um administrador. Se o usuário resistir, será bani-
 do.
 
-2.3.2. Não serão consideradas alheias à comunidade pessoas que (a) são ou querem se tornar usuários Deepin, (b) estudantes e pesqisadores, (c) desenvolvedores e (d) entusiastas do movimento GNU e da tecnologia em geral.
+2.3.2. Não serão consideradas alheias à comunidade pessoas que (a) são ou querem se tornar usuários Deepin, (b) estudantes e pes-
+quisadores, (c) desenvolvedores e (d) entusiastas do movimento GNU e da tecnologia em geral.
 
 3. A comunidade deverá se esforçar para manter o grupo focado e mantido no eixo proposto, pois este conta com a tecnologia de su-
 pergroups e o histórico é salvo em nuvem, ao passo que, quando um novo membro chega, consegue visualizá-lo por completo.
