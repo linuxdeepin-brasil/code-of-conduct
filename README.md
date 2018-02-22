@@ -65,8 +65,8 @@ will be banned from [@deepinbrasil](https://t.me/deepinbrasil)."
 - A comunidade abordará novos membros com serenidade e respeito. Perguntará se são usuários Deepin e como chegaram até aqui.
 	1. Em caso de randomicidade, oriente-o a sair e encaminhe suas mensagens a um administrador. Se o usuário resistir, será banido.
 	2. Não serão consideradas alheias à comunidade pessoas que: 
-		1. são usuários Deepin;
-		1. querem se tornar usuários Deepin;
+		1. são ou querem se tornar usuários Deepin;
+		1. estudantes e pesquisadores;
 		1. desenvolvedores; e 
 		1. entusiastas do movimento GNU e da tecnologia em geral.
 
@@ -144,7 +144,7 @@ Use a URL abaixo para pinar o código no topo do seu canal.
 
 ## 10. Autores e mantenedores do projeto
 
-- [Luan C. Redmann](luandacostaredmann@gmail.com)
+- [Luan C. Redmann](mailto:luandacostaredmann@gmail.com)
 - [P. Dayvson](mailto:pdayvson@hotmail.com)
 
 Feito com base no [Brazilian IT group - Code of conduct](https://github.com/brazil-it-groups/code-of-conduct)
