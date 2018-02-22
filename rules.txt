@@ -1,0 +1,51 @@
+Este grupo parte de uma iniciativa comunitária, sem fins lucrativos. Destina-se, exclusivamente, a falantes da língua portuguesa.
+Nosso objetivo é disseminar o Deepin SO, bem como receber a demanda de dúvidas relativas ao seu uso e manutenção, oriundas de um
+sistema operacional relativamente novo e em ascensão social com fervor recente.
+
+Regras:
+
+1. A comunidade é aberta, porém o intuito é trocar informações sobre o Deepin SO no Brasil. Portanto, o @deepinbrasil reserva-se
+à troca de mensagens exclusivamente na língua Portuguesa.
+
+1.2. É tolerado apenas 101 (um) envio de mensagem em outro idioma que não o que trata no item 1, salvo o modelo #WARNING que será
+tratado no subítem 1.2.1.
+
+1.2.1. Em caso de descumprimento dos termos tratados, os outros usuários deverão:
+#1 — Encaminhar a mensagem a um administrador;
+#2 — Responder a mensagem com o seguinte texto:
+"#WARNING: In this group only communication in Portuguese is allowed. If you are looking for native support in another language,
+we sugest you to join the Deepin OS general community — @deepinlinux. If you insist on communicating in this language again, you
+will be banned from @deepinbrasil."
+#3 — Esperar uma resposta do usuário abordado. Caso identificado que este individuo se trata de um usuário real, os membros esta-
+rão livres para orientá-lo a procurar uma comunidade nativa de seu país. Caso contrário, encaminhar a resposta a um administrador
+novamente e esperar. Quando a equipe agir, informará que o usuário foi banido. Caso necessite se comunicar em outro idioma, use a-
+penas o idioma Inglês!
+
+1.2.2. Em casos como o descrito no subítem 1.2.1, prefira copiar o modelo #WARNING, ele é sucinto e objetivo. Mensagens redundan-
+tes serão consideradas spam e o usuário que as mandou será advertido. Em caso de resistência, ele será banido.
+
+2. É preferível que os membros seja atenciosos, gentis e generosos com a comunidade. Fazemos parte de uma constante evolução, on-
+de ainda restam muitas dúvidas e novos usuários sentem-se fora do ninho, motivo suficiente para desistência.
+
+2.1. É preferível também responder mensagens usando a função Reply, nativa do Telegram. Isso ajuda na organização estrutural do
+grupo.
+
+2.2. Em respostas, é necessário que os membros sejam claros, visando a compreensão de alto nível dos autores da pergunta.
+
+2.2.1. Perguntas com necessidade de maior atenção imunizarão múltiplas respostas de serem consideradas spam.
+
+2.3. A comunidade abordará novos membros com serenidade e respeito. Perguntará se são usuários Deepin e como chegaram até aqui.
+
+2.3.1. Em caso de randomicidade, oriente-o a sair e encaminhe suas mensagens a um administrador. Se o usuário resistir, será bani-
+do.
+
+2.3.2. Não serão consideradas alheias à comunidade pessoas que (a) são usuários Deepin, (b) querem se tornar usuários Deepin, (c)
+desenvolvedores e (d) entusiastas do movimento GNU e da tecnologia em geral.
+
+3. A comunidade deverá se esforçar para manter o grupo focado e mantido no eixo proposto, pois este conta com a tecnologia de su-
+pergroups e o histórico é salvo em nuvem, ao passo que, quando um novo membro chega, consegue visualizá-lo por completo.
+
+3.1. A comunidade não deseja que seus membros sejam robôs. O lema do Deepin diz que "nós criamos, nós modificamos" e o coletivo
+da frase se refere à uma comunidade amigável e humanitária, onde todos conversam e se sentem bem entre si. Pensando nisso, convi-
+damos todos ao @deepinho, um espaço onde a comunidade pode se sentir livre de regras e falar sobre qualquer coisa de acordo com a
+nossa ética moral e cultural.
